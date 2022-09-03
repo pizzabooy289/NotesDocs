@@ -1,0 +1,45 @@
+1 FIND ACTION  										        ctrl-shift-a
+2 REDUCE CLUTTER BY DISABLING TOOLS                         NO SHORT CUT KEYS  
+3 DISABLE TABS                                              NO SHORT CUT KEYS  
+4 JUMP TO RECENT FILE     							        ctrl-e                       
+5 USE RECENT FILES TO OPEN TOOL WINDOW 				        ctrl-e
+6 NAVIGATE TO SYMBOL 								        ctrl-shift-alt-n
+7 NAVIGATE TO FILE 									        ctrl-shift-n
+8 NAVIGATE CURSOR POSITION BACK AND FORTH   		        ctrl-shift-LEFT KEY or ctrl-shift-RIGHT KEY
+9 ACTIVATE NAVIGATION BAR 							        alt-HOME 
+10 NAVIGATE FILES WITH NAVIGATION BAR				        alt-HOME and (RIGHT KEY or  LEFT KEY)
+11 OPEN FILE WITH NAVIGATION BAR					        alt-HOME and (UP KEY or  DOWN KEY)
+12 NARROW NAVIGATION BAR WITH SPEED SEARCH			        alt-HOME then (START TYPING)
+13 CREATE NEW FILE WITH NAVIGATION BAR                      alt-HOME then  alt-INSERT
+14 FIND IN PATH WITH NAVIGATION BAR                         alt-HOME then ctrl-Shift-f 
+15 ADD LINE AFTER/BEFORE							        Shift-ENTER (after) /alt-Shift-ENTER (before)
+16 MAKE AND EXTEND SELECTION USING KEYBOARD			        ctrl-w
+17 MOVE BLOCK UP/DOWN USING KEYBOARD				        ctrl-w then Shift-alt-(UP KEY or DOWN KEY) 
+18 REFORMAT CODE									        ctrl-alt-l 
+19 OPTIMIZE IMPORTS									        ctrl-alt-o
+20 GENERATE IMPORTS WHILE TYPING 					        ctrl-SPACE BAR
+21 INSTALL AND IMPORT                                       alt-ENTER
+22 ADDING FIELDS IN A CONSTRUCTOR                           alt-ENTER
+23 RENAME A FILE AND ITS REFERENCES                         NO SHORT CUT KEYS 
+24 RENAME SYMBOL                                            shift-F6        
+25 QUICK DOCUMENTATION                                      ctrl-q
+26 VIEW PARAMETER INFO                                      ctrl-p   
+27 RUN FROM KEYBOARD                                        ctrl+Shift+F10        
+28 CONDITIONAL BREAKPOINTS                                  ctrl+F8
+29 EVALUATE EXPRESSION DURING DEBUGGING                     alt+F8
+30 SPLIT SCREEN WITHOUT TABS                                Window->Editor Tabs->Split Vertically    
+31 RUN SINGLE TEST									        ctrl-shift-F10 or (RIGHT CLICKON CODE AREA, GREEN ARROW IN GUTTER, oR TEST PANEL) 
+32 AUTO-RUN TESTS                                           (AUTOTEST TOGGLE BUTTON IN TEST PANEL)  
+33 SPOT COVERAGE GAPS USING THE GUTTER                      (GUTTER SELECT "Run xxx for yyy with Covage" )
+34 USE LOCAL HISTORY TO AVOID DISASTER                      (VCS->LOCAL HISTORY-> SHOW HISTORY)
+35 CREATE A PROJECT FROM GITHUB						        (VCS ->Checkout from Version Control -> Git)
+36 PUT NEW PROJECT UNDER VERSION CONTROL  			        (VCS -> Enable Version Control Integration)
+37 REWORD COMMIT MESSAGE							        (VCS->Browse VCS Repository->Show Git Repository Log... THEN Right Click on message IN TEST PANEL THEN Reword F2)
+38 UNDO LAST COMMIT	                                        (Right Click on message IN TEST PANEL THEN Undo Commit.... )								
+39 ONLY COMMIT SOME CHANGES 			                    ctrl+k (Select file you want commit by check/uncheck the file.)	
+40 RUN NPM SCRIPTS FROM PACKAGE.JSON 	                    (Right Click on the package.json file to get the Show npm Scripts window.)		
+41 WRAP SELECTION WITH TAG                                  (Highlight the span with ctrl-w then get action with ctrl-shift-a. You can type “with E” or “Emmet”.)
+42 CREATE SQLITE DATABASE CONNECTION BY DRAG-AND-DROP       (Open the Database Window you can uses Action ctrl+shift+a  and type “Database”.  
+                                                             Just drag and drop your .sqlite db file onto the Database tool window)
+ 
+
